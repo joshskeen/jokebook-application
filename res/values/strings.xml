@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JokeBook</string>
+    <string name="glass_voice_trigger">tell a joke</string>
+    <string name="glass_voice_prompt">what type of joke would you like to tell (say "anti", "chicken", "lawyer", or "random")?</string>
+</resources>
